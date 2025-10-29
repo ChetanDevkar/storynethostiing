@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0;    
 }
-
+ 
 body {  
   min-height: 100vh;    
   background: linear-gradient(120deg, #6a11cb 0%, #c9cacd 100%);
@@ -91,6 +91,7 @@ body {
   color: #6a11cb;
   border-bottom: 1px solid #6a11cb;
 }
+
 
 
 
