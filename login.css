@@ -3,7 +3,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;    
-}
+}  
  
 body {  
   min-height: 100vh;    
@@ -91,6 +91,7 @@ body {
   color: #6a11cb;
   border-bottom: 1px solid #6a11cb;
 }
+
 
 
 
