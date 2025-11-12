@@ -14,7 +14,7 @@ body {
   font-family: "Segoe UI", Arial, sans-serif; 
 }
 
-.login-container {
+.login-container { 
   background: #fff;
   padding: 2rem 2.5rem;
   border-radius: 16px;
@@ -91,6 +91,7 @@ body {
   color: #6a11cb;
   border-bottom: 1px solid #6a11cb;
 }
+
 
 
 
