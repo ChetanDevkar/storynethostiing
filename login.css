@@ -11,7 +11,7 @@ body {
   display: flex;  
   align-items: center;  
   justify-content: center;
-  font-family: "Segoe UI", Arial, sans-serif;  
+  font-family: "Segoe UI", Arial, sans-serif;   
 }
 
 .login-container { 
@@ -91,6 +91,7 @@ body {
   color: #6a11cb;
   border-bottom: 1px solid #6a11cb;
 }
+
 
 
 
