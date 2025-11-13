@@ -13,7 +13,7 @@ body {
   justify-content: center; 
   font-family: "Segoe UI", Arial, sans-serif;    
 } 
-
+ 
 .login-container { 
   background: #fff; 
   padding: 2rem 2.5rem;
@@ -91,6 +91,7 @@ body {
   color: #6a11cb;
   border-bottom: 1px solid #6a11cb;
 }
+
 
 
 
